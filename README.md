@@ -5,7 +5,10 @@
 **(to say nothing of the dog)**
  </div>
 
+<div align="center">
+
 ![Three men](./istockphoto-498927213-612x612.jpg)
+</div>
 
 **THREE INVALIDS**  
 THERE were four of us – George, and William Samuel Harris, and myself, and Montmorency. We were sitting in my room, smoking, and talking about how bad we were – bad from a medical point of view I mean, of course.
@@ -183,5 +186,7 @@ The only one who was not struck with the suggestion was Montmorency. He never di
 
 **ORIGINAL MOTION CARRIED BY MAJORITY OF THREE TO ONE**  
 We were three to one, however, and the motion was carried.
+
+<div align="center">
 
 ![Montmorency](./71Q2d08PeWL._SY522_.jpg)
