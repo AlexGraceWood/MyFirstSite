@@ -164,7 +164,7 @@ I said:
 
 For myself, I have discovered an excellent preventive against sea- sickness, in balancing myself. You stand in the centre of the deck, and, as the ship heaves and pitches, you move your body about, so as to keep it always straight. When the front of the ship rises, you lean forward, till the deck almost touches your nose; and when its back end gets up, you lean backwards. This is all very well for an hour or two; but you can’t balance yourself for a week.
 
-**GEORGE SUGGESTS THE RIVER** 
+**GEORGE SUGGESTS THE RIVER**   
 George said:
 
 “Let’s go up the river.”
