@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Three men](./istockphoto-498927213-612x612.jpg)
+![Three men](istockphoto-498927213-612x612.jpg)
 </div>
 
 **THREE INVALIDS**  
@@ -189,4 +189,4 @@ We were three to one, however, and the motion was carried.
 
 <div align="center">
 
-![Montmorency](./71Q2d08PeWL._SY522_.jpg)
+![Montmorency](71Q2d08PeWL._SY522_.jpg)
